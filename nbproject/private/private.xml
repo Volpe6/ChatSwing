@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Drew/Documents/NetBeansProjects/Chat/src/cliente/view/ViewFrameCliente.java</file>
+            <file>file:/C:/Users/Drew/Documents/NetBeansProjects/Chat/src/servidor/command/CommandSetName.java</file>
+            <file>file:/C:/Users/Drew/Documents/NetBeansProjects/Chat/src/servidor/command/CommandPrint.java</file>
+            <file>file:/C:/Users/Drew/Documents/NetBeansProjects/Chat/src/cliente/controller/ControllerCliente.java</file>
+            <file>file:/C:/Users/Drew/Documents/NetBeansProjects/Chat/src/servidor/Servidor.java</file>
+            <file>file:/C:/Users/Drew/Documents/NetBeansProjects/Chat/src/servidor/cliente/Cliente.java</file>
+            <file>file:/C:/Users/Drew/Documents/NetBeansProjects/Chat/src/util/Arquivo.java</file>
+            <file>file:/C:/Users/Drew/Documents/NetBeansProjects/Chat/src/servidor/command/CommandInvoker.java</file>
+        </group>
+    </open-files>
+</project-private>
